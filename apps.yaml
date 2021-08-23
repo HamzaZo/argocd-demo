@@ -6,7 +6,7 @@ metadata:
   finalizers:
     - resources-finalizer.argocd.argoproj.io
 spec:
-  project: default
+  project: staging
   source:
     repoURL: https://github.com/HamzaZo/argocd-demo.git
     path: demo
