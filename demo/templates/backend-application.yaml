@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/HamzaZo/backend-app-demo.git
-    path: chart/backend-app-demo
+    path: chart/backend-app
     targetRevision: HEAD
     helm:
       values: |

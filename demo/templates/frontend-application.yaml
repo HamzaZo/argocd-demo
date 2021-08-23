@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/HamzaZo/front-app-demo.git
-    path: chart/front-app-demo
+    path: chart/front-app
     targetRevision: HEAD
     helm:
       values: |
